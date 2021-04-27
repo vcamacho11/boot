@@ -1,0 +1,10 @@
+@import "./vendor/bootstrap/scss/functions";
+@import "./vendor/bootstrap/scss/mixins";
+@import "./vendor/bootstrap/scss/variables";
+
+$theme-colors: ("primary": #ff6347);
+$btn-border-radius: 10 rem;
+$font-family-base: "Electrolize", sans-serif;
+$background-colors:("Jumbotron": #ffe5d1);
+
+@import "./vendor/bootstrap/scss/bootstrap";
